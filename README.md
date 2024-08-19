@@ -3,6 +3,7 @@
 This project was made in Corel Painter with usage of graphic tablet Wacom.
 
 ## Progress
+I can see now that the changes might be hard to spot as I kept the template image underneath in the exports. However I've commented the changes in the sessions.
 
 ### First session
 ![First session](DoggosaurusRex-Lenochodik_1.png)
